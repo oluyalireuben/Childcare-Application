@@ -52,10 +52,6 @@ To install the childcare application, follow these steps:
 ## Contributing
 Contributions to the childcare application are welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-
 ---
 
 Feel free to customize this README according to your project's specific details and requirements.
