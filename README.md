@@ -57,4 +57,3 @@ Contributions to the childcare application are welcome! If you have any suggesti
 
 ---
 
-Feel free to customize this README according to your project's specific details and requirements.
