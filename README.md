@@ -49,7 +49,7 @@ To install the childcare application, follow these steps:
 3. **Profile Viewing**: Parents can view detailed profiles of childcare facilities.
 4. **Communication**: Use the in-app messaging feature to communicate with providers.
 
-## Download App
+## Download App Here
 [Click here to download the app](https://drive.google.com/file/d/1ZHXR-jtHM6ISm6XJaZv2gJ4o2CpbHxNO/view?usp=sharing)
 
 ## Contributing
